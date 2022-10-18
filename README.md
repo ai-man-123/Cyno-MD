@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://telegra.ph/file/a69277968591202ee81e8.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/file/daa407bc1a7a294f52e56.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">Cyno-MD</h1>
 
@@ -25,7 +25,7 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ https://github.com/Maxxy-Md/Eror
+$ git clone https://github.com/LionSuzune/Cyno-MD
 $ cd Eror
 $ npm i 
 ```
@@ -68,7 +68,7 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/Maxxy-Md/Eror
+git clone https://github.com/LionSuzune/Cyno-MD
 cd Eror
 npm install
 npm update
@@ -84,7 +84,7 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git https://github.com/Maxxy-Md/Eror
+git https://github.com/LionSuzune/Cyno-MD
 cd Eror
 npm install
 npm update
