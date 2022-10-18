@@ -1,7 +1,7 @@
 <p align="center">
     <img src="https://telegra.ph/file/a69277968591202ee81e8.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">𝙔𝙩 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯</h1>
+<h1 align="center">Cyno-MD</h1>
 
 ## Note!! Scan Pake Script Md Yang Lain Buat Dapetin SessionNya 
 
