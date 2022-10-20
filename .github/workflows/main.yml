@@ -37,4 +37,3 @@ jobs:
           cd Cyno-MD
           npm install
           npm start
-
