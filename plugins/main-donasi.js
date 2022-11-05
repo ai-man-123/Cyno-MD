@@ -64,11 +64,11 @@ PERMANEN PREMIUM : 60K
 
 𓊈 💰 PEMBAYARAN 💰𓊉 
 
-Pembayaran nya gak usah pakai dana,ovo,Gopay atau dll. Hanya pakai pulsa doang. Cara bayar nya di shoppey 
+Pembayaran nya gak usah pakai dana,ovo,Gopay atau dll. Hanya pakai pulsa doang.  
 
-~ Terimakasih Sudah Donasi Cyno Bot, jika mau chat owner .. 
+~ Terimakasih Sudah Donasi lynx Bot, jika mau chat owner .. 
 
-wa.me/62887433094409 `
+wa.me/60102810046 `
 const footer = `
 ❦❧ ━━──┈┈ ❲ ${global.namebot} ❳
 ┃𝚁𝚞𝚗𝚝𝚒𝚖𝚎 : ${uptime}
