@@ -37,45 +37,45 @@ let fs = require('fs')
 */
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.owner = ['62887433094409']
-global.mods = ['62887433094409']
+global.owner = ['60102810046']
+global.mods = ['60102810046']
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json'))
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.author = 'ᴜᴢᴜɪ ᴍɪᴄʜᴇʟʟᴇ'
-global.namebot = '​cyno вoтz'
-global.wm = '© creaтed cyno вoтz'
+global.author = 'lynxman'
+global.namebot = 'lynx вoтz'
+global.wm = '© creaтed Aimanlynx вoтz'
 global.media = 'https://telegra.ph/file/9d84f6c25d69792f61a88.jpg'
-global.wm = 'UzuiChan '
+global.wm = 'lynxman '
 global.watermark = wm
 global.wm2 = 'Cyno '
 global.wm3 = 'Cyno '
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.ownername = 'Uzui Michelle'   
-global.ownernomor = '+62 887-4330-94409'
+global.ownername = 'lynx.aiman'
+global.ownernomor = '+60 10-281 0046'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.Linkgc = 'Bentar'
-global.lynk = 'https://chat.whatsapp.com/JkMDB7UqVsaIsKX91QtP9D'
+global.Linkgc = 'gk ade banh'
+global.lynk = '-'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.ig = 'https://chat.whatsapp.com/JkMDB7UqVsaIsKX91QtP9D'
-global.yt = 'https://chat.whatsapp.com/JkMDB7UqVsaIsKX91QtP9D'
+global.ig = '-'
+global.yt = '-'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.dana = '0887433094409'
-global.gopay = ''
-global.pulsa = '0887433094409'
+global.dana = '-'
+global.gopay = '-'
+global.pulsa = '0102810046'
 global.saweria =  '-'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.ListHargaSewa = '├ 5 Hari IDR 3.000\n├ 7 Hari IDR 5.000\n├ 15+5 Hari IDR 10.000\n├ 30 Hari IDR 15.000'
+global.ListHargaSewa = '├ 5 Hari rm 3.000\n├ 7 Hari rm 5.000\n├ 15+5 Hari rm 10.000\n├ 30 Hari rm 15.000'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.LyAtas1 = '☰ ━━━ ❨'
 global.LyAtas2 = '❩ ━━┄┈ •⟅'
@@ -168,10 +168,10 @@ global.thumbnailUrl = [
 global.fotonya1 = 'https://telegra.ph/file/e7079c428187ab7f6f556.jpg' //ganti jadi foto bot mu
 global.fotonya2 = 'https://telegra.ph/file/a0d35a5efdb9610f76679.jpg' //ini juga ganti 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.dtu = 'ɢʀᴜᴘ ʙᴏᴛ'
-global.urlnya = "https://chat.whatsapp.com/JkMDB7UqVsaIsKX91QtP9D"
+global.dtu = 'ɢithub'
+global.urlnya = "https://github.com/ai-man-123"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '0887-4330-94409'
+global.phn = '+60 10-281 0046'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
