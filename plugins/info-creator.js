@@ -7,7 +7,7 @@ async function handler(m) {
                     + `ORG:${global.ownername}\n`
                     + `TEL;type=CELL;type=VOICE;waid=${global.owner}:0\n`
                     + 'END:VCARD'
-                conn.sendMessage(m.chat, { contacts: { displayName: 'ᴜᴢᴜɪ ᴍɪᴄʜᴇʟʟᴇ', contacts: [{ vcard }] } }, { quoted: m })
+                conn.sendMessage(m.chat, { contacts: { displayName: 'lynx man', contacts: [{ vcard }] } }, { quoted: m })
 }
 handler.help = ['owner', 'creator']
 handler.tags = ['info']
